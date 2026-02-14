@@ -5,3 +5,6 @@ developing projects:
 side projects:
 * In-Depth NPC System
 * c4's survival io
+
+planned:
+* Tinytopia: Isles
